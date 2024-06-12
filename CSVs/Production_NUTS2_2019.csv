@@ -1,8 +1,8 @@
-"NutsID","Region Name","NUTS ID","p.year","p.value_eur","p.area_ha"
-"11","Norte","2","2019","1312536063","1978.7"
-"15","Algarve","2","2019","373196278","3709.5"
-"16","Centro","2","2019","1786415564","2820.8"
-"17","Área Metropolitana de Lisboa","2","2019","313163976","3451.5"
-"18","Alentejo","2","2019","2441935279","1038.8"
-"20","Região Autónoma dos Açores ","2","2019","423978604","3514.6"
-"30","Região Autónoma da Madeira ","2","2019","107140853","23269.4"
+NutsID,region_name,NUTS_level,p.year,p.value_eur,p.area_ha
+11,Norte,2,2019,1312536063,1978.7
+15,Algarve,2,2019,373196278,3709.5
+16,Centro,2,2019,1786415564,2820.8
+17,Área Metropolitana de Lisboa,2,2019,313163976,3451.5
+18,Alentejo,2,2019,2441935279,1038.8
+20,Região Autónoma dos Açores ,2,2019,423978604,3514.6
+30,Região Autónoma da Madeira ,2,2019,107140853,23269.4

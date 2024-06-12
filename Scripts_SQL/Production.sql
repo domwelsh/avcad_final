@@ -1,7 +1,7 @@
 (SELECT
     'NutsID',
-    'Region Name',
-    'NUTS ID',
+    'region_name',
+    'NUTS_level',
     'p.year',
     'p.value_eur',
     'p.area_ha')

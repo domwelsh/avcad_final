@@ -1,64 +1,64 @@
-"NutsID","Region Name","NUTS ID","l.year","l.value","ltn.type_labour"
-"11","Norte","2","2019","119432","Total labour force in agriculture"
-"11","Norte","2","2019","93339","Family labour force"
-"11","Norte","2","2019","50025","Holder"
-"11","Norte","2","2019","28116","Spouse"
-"11","Norte","2","2019","15198","Other family members"
-"11","Norte","2","2019","26092","Non-family labour force"
-"11","Norte","2","2019","12515","Regular"
-"11","Norte","2","2019","11186","Non-regular"
-"11","Norte","2","2019","2392","Workers not hired by the holder"
-"15","Algarve","2","2019","13720","Total labour force in agriculture"
-"15","Algarve","2","2019","7134","Family labour force"
-"15","Algarve","2","2019","4335","Holder"
-"15","Algarve","2","2019","1647","Spouse"
-"15","Algarve","2","2019","1152","Other family members"
-"15","Algarve","2","2019","6586","Non-family labour force"
-"15","Algarve","2","2019","3755","Regular"
-"15","Algarve","2","2019","958","Non-regular"
-"15","Algarve","2","2019","1873","Workers not hired by the holder"
-"16","Centro","2","2019","96184","Total labour force in agriculture"
-"16","Centro","2","2019","72335","Family labour force"
-"16","Centro","2","2019","39900","Holder"
-"16","Centro","2","2019","22498","Spouse"
-"16","Centro","2","2019","9937","Other family members"
-"16","Centro","2","2019","23849","Non-family labour force"
-"16","Centro","2","2019","15300","Regular"
-"16","Centro","2","2019","7243","Non-regular"
-"16","Centro","2","2019","1307","Workers not hired by the holder"
-"17","Área Metropolitana de Lisboa","2","2019","9520","Total labour force in agriculture"
-"17","Área Metropolitana de Lisboa","2","2019","4308","Family labour force"
-"17","Área Metropolitana de Lisboa","2","2019","2686","Holder"
-"17","Área Metropolitana de Lisboa","2","2019","1095","Spouse"
-"17","Área Metropolitana de Lisboa","2","2019","528","Other family members"
-"17","Área Metropolitana de Lisboa","2","2019","5212","Non-family labour force"
-"17","Área Metropolitana de Lisboa","2","2019","3633","Regular"
-"17","Área Metropolitana de Lisboa","2","2019","1004","Non-regular"
-"17","Área Metropolitana de Lisboa","2","2019","575","Workers not hired by the holder"
-"18","Alentejo","2","2019","54381","Total labour force in agriculture"
-"18","Alentejo","2","2019","19874","Family labour force"
-"18","Alentejo","2","2019","13003","Holder"
-"18","Alentejo","2","2019","4162","Spouse"
-"18","Alentejo","2","2019","2709","Other family members"
-"18","Alentejo","2","2019","34507","Non-family labour force"
-"18","Alentejo","2","2019","21908","Regular"
-"18","Alentejo","2","2019","8601","Non-regular"
-"18","Alentejo","2","2019","3999","Workers not hired by the holder"
-"20","Região Autónoma dos Açores ","2","2019","10594","Total labour force in agriculture"
-"20","Região Autónoma dos Açores ","2","2019","7853","Family labour force"
-"20","Região Autónoma dos Açores ","2","2019","5147","Holder"
-"20","Região Autónoma dos Açores ","2","2019","1377","Spouse"
-"20","Região Autónoma dos Açores ","2","2019","1329","Other family members"
-"20","Região Autónoma dos Açores ","2","2019","2741","Non-family labour force"
-"20","Região Autónoma dos Açores ","2","2019","1982","Regular"
-"20","Região Autónoma dos Açores ","2","2019","594","Non-regular"
-"20","Região Autónoma dos Açores ","2","2019","165","Workers not hired by the holder"
-"30","Região Autónoma da Madeira ","2","2019","10678","Total labour force in agriculture"
-"30","Região Autónoma da Madeira ","2","2019","9141","Family labour force"
-"30","Região Autónoma da Madeira ","2","2019","5117","Holder"
-"30","Região Autónoma da Madeira ","2","2019","2098","Spouse"
-"30","Região Autónoma da Madeira ","2","2019","1927","Other family members"
-"30","Região Autónoma da Madeira ","2","2019","1538","Non-family labour force"
-"30","Região Autónoma da Madeira ","2","2019","716","Regular"
-"30","Região Autónoma da Madeira ","2","2019","766","Non-regular"
-"30","Região Autónoma da Madeira ","2","2019","56","Workers not hired by the holder"
+NutsID,region_name,NUTS_level,l.year,l.value,ltn.type_labour
+11,Norte,2,2019,119432,Total labour force in agriculture
+11,Norte,2,2019,93339,Family labour force
+11,Norte,2,2019,50025,Holder
+11,Norte,2,2019,28116,Spouse
+11,Norte,2,2019,15198,Other family members
+11,Norte,2,2019,26092,Non-family labour force
+11,Norte,2,2019,12515,Regular
+11,Norte,2,2019,11186,Non-regular
+11,Norte,2,2019,2392,Workers not hired by the holder
+15,Algarve,2,2019,13720,Total labour force in agriculture
+15,Algarve,2,2019,7134,Family labour force
+15,Algarve,2,2019,4335,Holder
+15,Algarve,2,2019,1647,Spouse
+15,Algarve,2,2019,1152,Other family members
+15,Algarve,2,2019,6586,Non-family labour force
+15,Algarve,2,2019,3755,Regular
+15,Algarve,2,2019,958,Non-regular
+15,Algarve,2,2019,1873,Workers not hired by the holder
+16,Centro,2,2019,96184,Total labour force in agriculture
+16,Centro,2,2019,72335,Family labour force
+16,Centro,2,2019,39900,Holder
+16,Centro,2,2019,22498,Spouse
+16,Centro,2,2019,9937,Other family members
+16,Centro,2,2019,23849,Non-family labour force
+16,Centro,2,2019,15300,Regular
+16,Centro,2,2019,7243,Non-regular
+16,Centro,2,2019,1307,Workers not hired by the holder
+17,Área Metropolitana de Lisboa,2,2019,9520,Total labour force in agriculture
+17,Área Metropolitana de Lisboa,2,2019,4308,Family labour force
+17,Área Metropolitana de Lisboa,2,2019,2686,Holder
+17,Área Metropolitana de Lisboa,2,2019,1095,Spouse
+17,Área Metropolitana de Lisboa,2,2019,528,Other family members
+17,Área Metropolitana de Lisboa,2,2019,5212,Non-family labour force
+17,Área Metropolitana de Lisboa,2,2019,3633,Regular
+17,Área Metropolitana de Lisboa,2,2019,1004,Non-regular
+17,Área Metropolitana de Lisboa,2,2019,575,Workers not hired by the holder
+18,Alentejo,2,2019,54381,Total labour force in agriculture
+18,Alentejo,2,2019,19874,Family labour force
+18,Alentejo,2,2019,13003,Holder
+18,Alentejo,2,2019,4162,Spouse
+18,Alentejo,2,2019,2709,Other family members
+18,Alentejo,2,2019,34507,Non-family labour force
+18,Alentejo,2,2019,21908,Regular
+18,Alentejo,2,2019,8601,Non-regular
+18,Alentejo,2,2019,3999,Workers not hired by the holder
+20,Região Autónoma dos Açores ,2,2019,10594,Total labour force in agriculture
+20,Região Autónoma dos Açores ,2,2019,7853,Family labour force
+20,Região Autónoma dos Açores ,2,2019,5147,Holder
+20,Região Autónoma dos Açores ,2,2019,1377,Spouse
+20,Região Autónoma dos Açores ,2,2019,1329,Other family members
+20,Região Autónoma dos Açores ,2,2019,2741,Non-family labour force
+20,Região Autónoma dos Açores ,2,2019,1982,Regular
+20,Região Autónoma dos Açores ,2,2019,594,Non-regular
+20,Região Autónoma dos Açores ,2,2019,165,Workers not hired by the holder
+30,Região Autónoma da Madeira ,2,2019,10678,Total labour force in agriculture
+30,Região Autónoma da Madeira ,2,2019,9141,Family labour force
+30,Região Autónoma da Madeira ,2,2019,5117,Holder
+30,Região Autónoma da Madeira ,2,2019,2098,Spouse
+30,Região Autónoma da Madeira ,2,2019,1927,Other family members
+30,Região Autónoma da Madeira ,2,2019,1538,Non-family labour force
+30,Região Autónoma da Madeira ,2,2019,716,Regular
+30,Região Autónoma da Madeira ,2,2019,766,Non-regular
+30,Região Autónoma da Madeira ,2,2019,56,Workers not hired by the holder

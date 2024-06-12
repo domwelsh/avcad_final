@@ -1,7 +1,7 @@
 (SELECT
     'NutsID',
-    'Region Name',
-    'NUTS ID',
+    'region_name',
+    'NUTS_level',
     'l.year',
     'l.value',
     'ltn.type_labour')

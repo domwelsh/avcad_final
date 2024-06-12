@@ -1,7 +1,7 @@
 (SELECT
     'NutsID',
-    'Region Name',
-    'NUTS ID',
+    'region_name',
+    'NUTS_level',
     'tc.year',
     'tc.area',
     'tc.hold',

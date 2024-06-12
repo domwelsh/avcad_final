@@ -46,8 +46,8 @@ WHERE
 -- Dom's script
 (SELECT
     'NutsID',
-    'Region Name',
-    'NUTS ID',
+    'region_name',
+    'NUTS_level',
     'pc.year',
     'pc.area',
     'pcn.crop_name')

@@ -1,36 +1,36 @@
-"NutsID","Region Name","NUTS ID","e.year","e.value","el.education_level"
-"11","Norte","2","2019","257718","Total"
-"11","Norte","2","2019","31554","None"
-"11","Norte","2","2019","161233","Basic"
-"11","Norte","2","2019","35410","Secondary / post-secondary"
-"11","Norte","2","2019","29521","Superior"
-"15","Algarve","2","2019","27522","Total"
-"15","Algarve","2","2019","3357","None"
-"15","Algarve","2","2019","16943","Basic"
-"15","Algarve","2","2019","4028","Secondary / post-secondary"
-"15","Algarve","2","2019","3194","Superior"
-"16","Centro","2","2019","224976","Total"
-"16","Centro","2","2019","24533","None"
-"16","Centro","2","2019","145739","Basic"
-"16","Centro","2","2019","31352","Secondary / post-secondary"
-"16","Centro","2","2019","23352","Superior"
-"17","Área Metropolitana de Lisboa","2","2019","13525","Total"
-"17","Área Metropolitana de Lisboa","2","2019","1283","None"
-"17","Área Metropolitana de Lisboa","2","2019","8744","Basic"
-"17","Área Metropolitana de Lisboa","2","2019","2097","Secondary / post-secondary"
-"17","Área Metropolitana de Lisboa","2","2019","1401","Superior"
-"18","Alentejo","2","2019","75756","Total"
-"18","Alentejo","2","2019","8383","None"
-"18","Alentejo","2","2019","43349","Basic"
-"18","Alentejo","2","2019","12456","Secondary / post-secondary"
-"18","Alentejo","2","2019","11568","Superior"
-"20","Região Autónoma dos Açores ","2","2019","29143","Total"
-"20","Região Autónoma dos Açores ","2","2019","2819","None"
-"20","Região Autónoma dos Açores ","2","2019","19643","Basic"
-"20","Região Autónoma dos Açores ","2","2019","4333","Secondary / post-secondary"
-"20","Região Autónoma dos Açores ","2","2019","2348","Superior"
-"30","Região Autónoma da Madeira ","2","2019","36931","Total"
-"30","Região Autónoma da Madeira ","2","2019","5184","None"
-"30","Região Autónoma da Madeira ","2","2019","22273","Basic"
-"30","Região Autónoma da Madeira ","2","2019","5816","Secondary / post-secondary"
-"30","Região Autónoma da Madeira ","2","2019","3658","Superior"
+NutsID,region_name,NUTS_level,e.year,e.value,el.education_level
+11,Norte,2,2019,257718,Total
+11,Norte,2,2019,31554,None
+11,Norte,2,2019,161233,Basic
+11,Norte,2,2019,35410,Secondary / post-secondary
+11,Norte,2,2019,29521,Superior
+15,Algarve,2,2019,27522,Total
+15,Algarve,2,2019,3357,None
+15,Algarve,2,2019,16943,Basic
+15,Algarve,2,2019,4028,Secondary / post-secondary
+15,Algarve,2,2019,3194,Superior
+16,Centro,2,2019,224976,Total
+16,Centro,2,2019,24533,None
+16,Centro,2,2019,145739,Basic
+16,Centro,2,2019,31352,Secondary / post-secondary
+16,Centro,2,2019,23352,Superior
+17,Área Metropolitana de Lisboa,2,2019,13525,Total
+17,Área Metropolitana de Lisboa,2,2019,1283,None
+17,Área Metropolitana de Lisboa,2,2019,8744,Basic
+17,Área Metropolitana de Lisboa,2,2019,2097,Secondary / post-secondary
+17,Área Metropolitana de Lisboa,2,2019,1401,Superior
+18,Alentejo,2,2019,75756,Total
+18,Alentejo,2,2019,8383,None
+18,Alentejo,2,2019,43349,Basic
+18,Alentejo,2,2019,12456,Secondary / post-secondary
+18,Alentejo,2,2019,11568,Superior
+20,Região Autónoma dos Açores ,2,2019,29143,Total
+20,Região Autónoma dos Açores ,2,2019,2819,None
+20,Região Autónoma dos Açores ,2,2019,19643,Basic
+20,Região Autónoma dos Açores ,2,2019,4333,Secondary / post-secondary
+20,Região Autónoma dos Açores ,2,2019,2348,Superior
+30,Região Autónoma da Madeira ,2,2019,36931,Total
+30,Região Autónoma da Madeira ,2,2019,5184,None
+30,Região Autónoma da Madeira ,2,2019,22273,Basic
+30,Região Autónoma da Madeira ,2,2019,5816,Secondary / post-secondary
+30,Região Autónoma da Madeira ,2,2019,3658,Superior
