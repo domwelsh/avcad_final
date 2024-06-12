@@ -69,3 +69,57 @@ WHERE
 INTO OUTFILE '/Users/dom/Green_Data_Science/AVCAD/avcad_final/CSVs/Permanent_Crop_NUTS2_2019.csv'
     FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
     LINES TERMINATED BY '\n';
+
+
+(SELECT
+    'NutsID',
+    'region_name',
+    'NUTS_level',
+    'pc.year',
+    'pc.area',
+    'pcn.crop_name')
+UNION
+(SELECT
+    r.NutsID,
+    r.region_name,
+    r.level_ID,
+    pc.year,
+    pc.area,
+    pcn.crop_name
+FROM
+    permanent_crop pc
+    JOIN permanent_crop_name pcn ON pc.pc_name_ID = pcn.pc_name_ID 
+    JOIN region r ON pc.NutsID = r.NutsID
+WHERE
+    r.level_ID = 4
+    AND pc.year = 2019)
+INTO OUTFILE '/Users/dom/Green_Data_Science/AVCAD/avcad_final/CSVs/Permanent_Crop_NUTS4_2019.csv'
+    FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+    LINES TERMINATED BY '\n';
+
+
+(SELECT
+    'NutsID',
+    'region_name',
+    'NUTS_level',
+    'pc.year',
+    'pc.area',
+    'pcn.crop_name')
+UNION
+(SELECT
+    r.NutsID,
+    r.region_name,
+    r.level_ID,
+    pc.year,
+    pc.area,
+    pcn.crop_name
+FROM
+    permanent_crop pc
+    JOIN permanent_crop_name pcn ON pc.pc_name_ID = pcn.pc_name_ID 
+    JOIN region r ON pc.NutsID = r.NutsID
+WHERE
+    r.level_ID = 5
+    AND pc.year = 2019)
+INTO OUTFILE '/Users/dom/Green_Data_Science/AVCAD/avcad_final/CSVs/Permanent_Crop_NUTS5_2019.csv'
+    FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+    LINES TERMINATED BY '\n';
