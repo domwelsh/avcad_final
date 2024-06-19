@@ -1,57 +1,57 @@
-NutsID,region_name,NUTS_level,pc.year,pc.area,pcn.crop_name
-11,Norte,2,2019,255954,Total
-11,Norte,2,2019,13815,Fresh fruit plantations (excluding citrus plantations)
-11,Norte,2,2019,1257,Citrus plantations
-11,Norte,2,2019,2619,Fruit plantations (subtropical climate zones)
-11,Norte,2,2019,73849,Nuts plantations
-11,Norte,2,2019,82777,Olive plantations
-11,Norte,2,2019,81411,Vineyards
-11,Norte,2,2019,226,Other permanent crops
-15,Algarve,2,2019,56754,Total
-15,Algarve,2,2019,3744,Fresh fruit plantations (excluding citrus plantations)
-15,Algarve,2,2019,13951,Citrus plantations
-15,Algarve,2,2019,1937,Fruit plantations (subtropical climate zones)
-15,Algarve,2,2019,26179,Nuts plantations
-15,Algarve,2,2019,9409,Olive plantations
-15,Algarve,2,2019,1513,Vineyards
-15,Algarve,2,2019,21,Other permanent crops
-16,Centro,2,2019,168086,Total
-16,Centro,2,2019,26364,Fresh fruit plantations (excluding citrus plantations)
-16,Centro,2,2019,1039,Citrus plantations
-16,Centro,2,2019,1032,Fruit plantations (subtropical climate zones)
-16,Centro,2,2019,17008,Nuts plantations
-16,Centro,2,2019,78956,Olive plantations
-16,Centro,2,2019,42234,Vineyards
-16,Centro,2,2019,1453,Other permanent crops
-17,Área Metropolitana de Lisboa,2,2019,16428,Total
-17,Área Metropolitana de Lisboa,2,2019,1443,Fresh fruit plantations (excluding citrus plantations)
-17,Área Metropolitana de Lisboa,2,2019,639,Citrus plantations
-17,Área Metropolitana de Lisboa,2,2019,177,Fruit plantations (subtropical climate zones)
-17,Área Metropolitana de Lisboa,2,2019,4152,Nuts plantations
-17,Área Metropolitana de Lisboa,2,2019,730,Olive plantations
-17,Área Metropolitana de Lisboa,2,2019,9266,Vineyards
-17,Área Metropolitana de Lisboa,2,2019,20,Other permanent crops
-18,Alentejo,2,2019,358544,Total
-18,Alentejo,2,2019,5926,Fresh fruit plantations (excluding citrus plantations)
-18,Alentejo,2,2019,2260,Citrus plantations
-18,Alentejo,2,2019,380,Fruit plantations (subtropical climate zones)
-18,Alentejo,2,2019,107298,Nuts plantations
-18,Alentejo,2,2019,205363,Olive plantations
-18,Alentejo,2,2019,36686,Vineyards
-18,Alentejo,2,2019,630,Other permanent crops
-20,Região Autónoma dos Açores ,2,2019,2574,Total
-20,Região Autónoma dos Açores ,2,2019,116,Fresh fruit plantations (excluding citrus plantations)
-20,Região Autónoma dos Açores ,2,2019,350,Citrus plantations
-20,Região Autónoma dos Açores ,2,2019,481,Fruit plantations (subtropical climate zones)
-20,Região Autónoma dos Açores ,2,2019,97,Nuts plantations
-20,Região Autónoma dos Açores ,2,2019,0,Olive plantations
-20,Região Autónoma dos Açores ,2,2019,1424,Vineyards
-20,Região Autónoma dos Açores ,2,2019,107,Other permanent crops
-30,Região Autónoma da Madeira ,2,2019,2322,Total
-30,Região Autónoma da Madeira ,2,2019,267,Fresh fruit plantations (excluding citrus plantations)
-30,Região Autónoma da Madeira ,2,2019,118,Citrus plantations
-30,Região Autónoma da Madeira ,2,2019,1076,Fruit plantations (subtropical climate zones)
-30,Região Autónoma da Madeira ,2,2019,123,Nuts plantations
-30,Região Autónoma da Madeira ,2,2019,0,Olive plantations
-30,Região Autónoma da Madeira ,2,2019,719,Vineyards
-30,Região Autónoma da Madeira ,2,2019,19,Other permanent crops
+"NutsID","region_name","NUTS_level","pc.year","pc.area","pc.hold","pcn.crop_name"
+"11","Norte","2","2019","255954","88611","Total"
+"11","Norte","2","2019","13815","17257","Fresh fruit plantations (excluding citrus plantations)"
+"11","Norte","2","2019","1257","5221","Citrus plantations"
+"11","Norte","2","2019","2619","1501","Fruit plantations (subtropical climate zones)"
+"11","Norte","2","2019","73849","33765","Nuts plantations"
+"11","Norte","2","2019","82777","43267","Olive plantations"
+"11","Norte","2","2019","81411","58881","Vineyards"
+"11","Norte","2","2019","226","143","Other permanent crops"
+"15","Algarve","2","2019","56754","11441","Total"
+"15","Algarve","2","2019","3744","6030","Fresh fruit plantations (excluding citrus plantations)"
+"15","Algarve","2","2019","13951","4858","Citrus plantations"
+"15","Algarve","2","2019","1937","740","Fruit plantations (subtropical climate zones)"
+"15","Algarve","2","2019","26179","8943","Nuts plantations"
+"15","Algarve","2","2019","9409","8659","Olive plantations"
+"15","Algarve","2","2019","1513","1969","Vineyards"
+"15","Algarve","2","2019","21","21","Other permanent crops"
+"16","Centro","2","2019","168086","75339","Total"
+"16","Centro","2","2019","26364","16966","Fresh fruit plantations (excluding citrus plantations)"
+"16","Centro","2","2019","1039","6759","Citrus plantations"
+"16","Centro","2","2019","1032","1028","Fruit plantations (subtropical climate zones)"
+"16","Centro","2","2019","17008","10846","Nuts plantations"
+"16","Centro","2","2019","78956","56252","Olive plantations"
+"16","Centro","2","2019","42234","39487","Vineyards"
+"16","Centro","2","2019","1453","443","Other permanent crops"
+"17","Área Metropolitana de Lisboa","2","2019","16428","3484","Total"
+"17","Área Metropolitana de Lisboa","2","2019","1443","1406","Fresh fruit plantations (excluding citrus plantations)"
+"17","Área Metropolitana de Lisboa","2","2019","639","1312","Citrus plantations"
+"17","Área Metropolitana de Lisboa","2","2019","177","50","Fruit plantations (subtropical climate zones)"
+"17","Área Metropolitana de Lisboa","2","2019","4152","386","Nuts plantations"
+"17","Área Metropolitana de Lisboa","2","2019","730","456","Olive plantations"
+"17","Área Metropolitana de Lisboa","2","2019","9266","2087","Vineyards"
+"17","Área Metropolitana de Lisboa","2","2019","20","16","Other permanent crops"
+"18","Alentejo","2","2019","358544","26333","Total"
+"18","Alentejo","2","2019","5926","1772","Fresh fruit plantations (excluding citrus plantations)"
+"18","Alentejo","2","2019","2260","2520","Citrus plantations"
+"18","Alentejo","2","2019","380","99","Fruit plantations (subtropical climate zones)"
+"18","Alentejo","2","2019","107298","3221","Nuts plantations"
+"18","Alentejo","2","2019","205363","21169","Olive plantations"
+"18","Alentejo","2","2019","36686","5424","Vineyards"
+"18","Alentejo","2","2019","630","82","Other permanent crops"
+"20","Região Autónoma dos Açores ","2","2019","2574","3742","Total"
+"20","Região Autónoma dos Açores ","2","2019","116","698","Fresh fruit plantations (excluding citrus plantations)"
+"20","Região Autónoma dos Açores ","2","2019","350","2385","Citrus plantations"
+"20","Região Autónoma dos Açores ","2","2019","481","1646","Fruit plantations (subtropical climate zones)"
+"20","Região Autónoma dos Açores ","2","2019","97","391","Nuts plantations"
+"20","Região Autónoma dos Açores ","2","2019","0","0","Olive plantations"
+"20","Região Autónoma dos Açores ","2","2019","1424","1906","Vineyards"
+"20","Região Autónoma dos Açores ","2","2019","107","42","Other permanent crops"
+"30","Região Autónoma da Madeira ","2","2019","2322","11010","Total"
+"30","Região Autónoma da Madeira ","2","2019","267","3238","Fresh fruit plantations (excluding citrus plantations)"
+"30","Região Autónoma da Madeira ","2","2019","118","2026","Citrus plantations"
+"30","Região Autónoma da Madeira ","2","2019","1076","7451","Fruit plantations (subtropical climate zones)"
+"30","Região Autónoma da Madeira ","2","2019","123","629","Nuts plantations"
+"30","Região Autónoma da Madeira ","2","2019","0","0","Olive plantations"
+"30","Região Autónoma da Madeira ","2","2019","719","4466","Vineyards"
+"30","Região Autónoma da Madeira ","2","2019","19","57","Other permanent crops"
