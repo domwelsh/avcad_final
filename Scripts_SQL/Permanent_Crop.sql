@@ -50,6 +50,7 @@ WHERE
     'NUTS_level',
     'pc.year',
     'pc.area',
+    'pc.hold',
     'pcn.crop_name')
 UNION
 (SELECT
@@ -58,6 +59,7 @@ UNION
     r.level_ID,
     pc.year,
     pc.area,
+    pc.hold,
     pcn.crop_name
 FROM
     permanent_crop pc
@@ -77,6 +79,7 @@ INTO OUTFILE '/Users/dom/Green_Data_Science/AVCAD/avcad_final/CSVs/Permanent_Cro
     'NUTS_level',
     'pc.year',
     'pc.area',
+    'pc.hold',
     'pcn.crop_name')
 UNION
 (SELECT
@@ -85,6 +88,7 @@ UNION
     r.level_ID,
     pc.year,
     pc.area,
+    pc.hold,
     pcn.crop_name
 FROM
     permanent_crop pc
@@ -104,6 +108,7 @@ INTO OUTFILE '/Users/dom/Green_Data_Science/AVCAD/avcad_final/CSVs/Permanent_Cro
     'NUTS_level',
     'pc.year',
     'pc.area',
+    'pc.hold',
     'pcn.crop_name')
 UNION
 (SELECT
@@ -112,6 +117,7 @@ UNION
     r.level_ID,
     pc.year,
     pc.area,
+    pc.hold,
     pcn.crop_name
 FROM
     permanent_crop pc
