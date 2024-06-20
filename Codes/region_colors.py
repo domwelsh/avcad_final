@@ -1,9 +1,9 @@
 region_colors = {
-    'Alentejo': '#FF69B4',  # pink
-    'Norte': '#32CD32',  # green
-    'Centro': '#6495ED',  # blue
-    'Açores': '#FFD700',  # yellow
-    'Algarve': '#8B0A1A',  # red
-    'Lisboa': '#4682B4',  # light blue
-    'Madeira': '#9ACD32'  # light green
+    'Alentejo': '#fa2100',   # rojo anaranjado intenso
+    'Norte': '#FFC300',      # amarillo brillante
+    'Centro': '#077501',     # verde esmeralda oscuro
+    'Açores': '#0a02f4',     # azul oscuro
+    'Algarve': '#c50af4',    # morado intenso
+    'Lisboa': '#1ff40a',     # verde lima intenso
+    'Madeira': '#00BCD4'     # turquesa 
 }
